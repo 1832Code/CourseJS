@@ -87,4 +87,4 @@ Este curso te enseñará _JavaScript_ desde lo más básico hasta conceptos mas 
 
 ##### 🔥 ¡Empieza ahora!
 
-Este _curso_ es completamente gratuito y práctico. Aprenderás con ejercicios, ejemplos reales y proyectos para fortalecer tus habilidades en JavaScript. 🚀
+Este _curso_ es completamente gratuito y práctico. Aprenderás con ejercicios, ejemplos reales y proyectos para fortalecer tus habilidades en JavaScript.✅ 🚀
